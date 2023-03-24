@@ -1,7 +1,7 @@
 <?php
 $serverName = "localhost";
 $userName = "root";
-$userPassword = "12345678";
+$userPassword = "";
 $dbname = "food";
 
 try
